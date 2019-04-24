@@ -1,2 +1,2 @@
 # Notes
-Notes on things I am learning
+[Notes on things I find interesting](../../wiki)
